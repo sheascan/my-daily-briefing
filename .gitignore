@@ -5,3 +5,4 @@ debug_html/
 .env
 venv/
 __pycache__/
+outputs/

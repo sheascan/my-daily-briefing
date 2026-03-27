@@ -35,7 +35,7 @@ TARGETS = [
     # {"sender": "onthemoneytheirishtimes@comms.irishtimes.com","subject": None},
     {"sender": "newsletter@news.metro.co.uk","subject":None},
     # {"sender": "@news.theregister.co.uk","subject":None},
-    {"sender": "@news.theregister.co","subject":None},
+    {"sender": "@news.theregister.com","subject":None},
     {"sender": "nytdirect@nytimes.com","subject":None},
     {"sender": "newsletter@givemesport.com","subject":None},
     {"sender": "thecounterrucktheirishtimes@comms.irishtimes.com","subject":None},
