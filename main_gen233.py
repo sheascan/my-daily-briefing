@@ -6,7 +6,7 @@ from mutagen.id3 import ID3, TIT2, TPE1
 from dotenv import load_dotenv
 
 load_dotenv()
-VERSION_ID = "Gen 232.3 (Heavyweight & Robust Parsing)"
+VERSION_ID = "Gen 233.3 (Heavyweight & Robust Parsing)"
 
 # --- 1. CONFIG & GLOBALS ---
 DATA_DIR = os.path.expanduser(os.getenv("DATA_DIR", "~/podcast_data"))
